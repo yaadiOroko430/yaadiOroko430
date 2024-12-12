@@ -6,16 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaadioroko430" alt="yaadioroko430" /></a> </p>
 
 - 🔭 I’m currently working on [Feedback management system](https://feedback-website.onrender.com)
-
+- I’m currently working on [Visit Ethiopia mobile application ](https://feedback-website.onrender.com)
 - 🌱 I’m currently learning **Tailwind,express ,react**
 
 - 🤝 I’m looking for help with **shop management system**
 
-- 👨‍💻 All of my projects are available at [yaad.kesug.com](yaad.kesug.com)
+- 👨‍💻 To learn more about me visit my portfolio [Kengitan.com](https://kengitan-portfolio.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS javascript**
 
 - 📫 How to reach me **yaadiqaabato@gmail.com**
+- Linked in  https://www.linkedin.com/in/yad-qabato-148787259
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
