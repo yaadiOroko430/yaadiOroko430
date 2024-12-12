@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Feedback management system](https://feedback-website.onrender.com)
 - I’m currently working on [Visit Ethiopia mobile application ](https://feedback-website.onrender.com)
-- 🌱 I’m currently learning **Tailwind,express ,react**
+- 🌱 I’m currently learning **Tailwind,express ,react,Flutter,next js**
 
 - 🤝 I’m looking for help with **shop management system**
 
