@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaadioroko430&label=Profile%20views&color=0e75b6&style=flat" alt="yaadioroko430" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaadioroko430" alt="yaadioroko430" /></a> </p>
-
-- 🔭 I’m currently working on [Feedback management system](https://feedback-website.onrender.com)
 - I’m currently working on [Visit Ethiopia mobile application ](https://feedback-website.onrender.com)
 - 🌱 I’m currently learning **Tailwind,express ,react,Flutter,next js**
 
