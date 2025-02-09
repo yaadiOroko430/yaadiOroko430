@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaadioroko430" alt="yaadioroko430" /></a> </p>
 - I’m currently working on [Visit Ethiopia mobile application ]
+
 - 🤝 I’m looking for help with **shop management system**
 
 - 👨‍💻 To learn more about me visit my portfolio [Kengitan.com](https://kengitan-portfolio.vercel.app/)
